@@ -4118,7 +4118,7 @@ vue-loader@^16.0.0-alpha.3:
     merge-source-map "^1.1.0"
     source-map "^0.6.1"
 
-vue@^3.0.0-alpha.10:
+vue@^3.0.0-rc.5:
   version "3.0.0-rc.5"
   resolved "https://registry.yarnpkg.com/vue/-/vue-3.0.0-rc.5.tgz#973175d45a892b3bd23ef5de7faa4add9c66275f"
   integrity sha512-8t8Y4sHMBGD5iLZ7JfBGmKBJlzesPoL+/nW9EV8s+4LwnKC4rGlRp+Lj2rcign4iQaj0GFaL7DrQ8IoOfVX6+w==

@@ -6,7 +6,7 @@
   },
   "dependencies": {
     "axios": "^0.19.2",
-    "vue": "^3.0.0-alpha.10"
+    "vue": "^3.0.0-rc.5"
   },
   "devDependencies": {
     "@vue/compiler-sfc": "^3.0.0-rc.5",
