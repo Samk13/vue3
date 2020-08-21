@@ -6,10 +6,10 @@
   },
   "dependencies": {
     "axios": "^0.20.0",
-    "vue": "^3.0.0-rc.5"
+    "vue": "^3.0.0-rc.6"
   },
   "devDependencies": {
-    "@vue/compiler-sfc": "^3.0.0-rc.5",
+    "@vue/compiler-sfc": "^3.0.0-rc.6",
     "css-loader": "^4.2.1",
     "file-loader": "^6.0.0",
     "mini-css-extract-plugin": "^0.10.0",
