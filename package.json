@@ -9,7 +9,7 @@
     "vue": "^3.2.29"
   },
   "devDependencies": {
-    "css-loader": "^6.7.0",
+    "css-loader": "^6.7.1",
     "@vue/compiler-sfc": "^3.2.29",
     "mini-css-extract-plugin": "^2.5.3",
     "file-loader": "^6.2.0",
