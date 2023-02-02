@@ -6,7 +6,7 @@
   },
   "dependencies": {
     "axios": "^1.2.3",
-    "vue": "^3.2.45"
+    "vue": "^3.2.46"
   },
   "devDependencies": {
     "css-loader": "^6.7.3",
