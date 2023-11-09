@@ -5,7 +5,7 @@
     "build": "webpack --env.prod"
   },
   "dependencies": {
-    "axios": "^1.6.0",
+    "axios": "^1.6.1",
     "vue": "^3.3.7"
   },
   "devDependencies": {
