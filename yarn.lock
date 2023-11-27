@@ -239,7 +239,7 @@
     "@vue/compiler-core" "3.3.9"
     "@vue/shared" "3.3.9"
 
-"@vue/compiler-sfc@3.3.9", "@vue/compiler-sfc@^3.3.8":
+"@vue/compiler-sfc@3.3.9", "@vue/compiler-sfc@^3.3.9":
   version "3.3.9"
   resolved "https://registry.yarnpkg.com/@vue/compiler-sfc/-/compiler-sfc-3.3.9.tgz#5900906baba1a90389200d81753ad0f7ceb98a83"
   integrity sha512-wy0CNc8z4ihoDzjASCOCsQuzW0A/HP27+0MDSSICMjVIFzk/rFViezkR3dzH+miS2NDEz8ywMdbjO5ylhOLI2A==
